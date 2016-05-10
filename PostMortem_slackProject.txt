@@ -1,0 +1,11 @@
+Slack Project PostMortem
+
+I felt totally lost trying to do this assignment. After struggling on Friday trying to decide how to get started, where to input code and what document did what, I ended up going home and enrolling in a Udemy React course, which I worked on throughout the weekend.
+
+On a positive note, the online training helped me to better navigate the terminal. I feel like I can find my way to different directories and files now. I also gained some knowledge of React, though when I went back to the homework on Monday, I felt just as lost, since it didn't look at all like the setup I was using in Udemy.
+
+I thought the explanation on Tuesday morning about what parts belonged to Node was helpful. I'm not sure if it would have made a difference, but wished I'd heard all of that at the beginning. Sarah had told me that I should try to pair up with others to get help, but I didn't feel like I had anything to contribute and really needed to get a basic understanding to even talk about it with others.
+
+I feel like I generally understand the InitialState, setState and properties, but when it comes to adding new messages and users, I still don't understand where to add that code. I didn't realize we needed to make a "flat file" until Sarah told us about flat files. Also, the online training that I was doing didn't use the "app" prefix like the names in our node file. I'm still not clear on why ours used it and why the online training didn't.
+
+I know much of my confusion may be a continuation of earlier pieces that I'm still trying to learn. Hopefully, it will all come together for me at some point.
